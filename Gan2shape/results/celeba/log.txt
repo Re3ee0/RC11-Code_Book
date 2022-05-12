@@ -1,0 +1,81 @@
+Load config from yml file: configs/celeba.yml
+Loading configs from configs/celeba.yml
+{'checkpoint_dir': 'results/celeba', 'save_checkpoint_freq': 500, 'keep_num_checkpoint': 1, 'use_logger': True, 'log_freq': 100, 'joint_train': False, 'independent': True, 'reset_weight': True, 'save_results': True, 'num_stage': 4, 'flip1_cfg': [False, False, False, False], 'flip3_cfg': [True, False, False, False], 'stage_len_dict': {'step1': 600, 'step2': 600, 'step3': 400}, 'stage_len_dict2': {'step1': 200, 'step2': 500, 'step3': 300}, 'image_size': 128, 'load_gt_depth': False, 'img_list_path': 'data/celeba/list_200-399.txt', 'img_root': 'data/celeba', 'latent_root': 'data/celeba/latents', 'model_name': 'gan2shape_face', 'category': 'face', 'share_weight': False, 'relative_enc': True, 'use_mask': False, 'add_mean_L': True, 'add_mean_V': True, 'min_depth': 0.9, 'max_depth': 1.1, 'xyz_rotation_range': 60, 'xy_translation_range': 0.1, 'z_translation_range': 0, 'view_scale': 1.2, 'collect_iters': 100, 'batchsize': 16, 'lr': 0.0001, 'lam_perc': 0.5, 'lam_smooth': 0.01, 'lam_regular': 0.01, 'pretrain': 'checkpoints/gan2shape/celeba_pretrain.pth', 'view_mvn_path': 'checkpoints/view_light/celeba_view_mvn.pth', 'light_mvn_path': 'checkpoints/view_light/celeba_light_mvn.pth', 'rand_light': [-1, 1, -0.2, 0.8, -0.1, 0.6, -0.6], 'channel_multiplier': 1, 'gan_size': 128, 'gan_ckpt': 'checkpoints/stylegan2/stylegan2-celeba-config-e.pt', 'F1_d': 2, 'rot_center_depth': 1.0, 'fov': 10, 'tex_cube_size': 2, 'config': 'configs/celeba.yml', 'seed': 0, 'num_workers': 4, 'distributed': False}
+Load config from yml file: configs/celeba.yml
+Loading configs from configs/celeba.yml
+{'checkpoint_dir': 'results/celeba', 'save_checkpoint_freq': 500, 'keep_num_checkpoint': 1, 'use_logger': True, 'log_freq': 100, 'joint_train': False, 'independent': True, 'reset_weight': True, 'save_results': True, 'num_stage': 4, 'flip1_cfg': [False, False, False, False], 'flip3_cfg': [True, False, False, False], 'stage_len_dict': {'step1': 600, 'step2': 600, 'step3': 400}, 'stage_len_dict2': {'step1': 200, 'step2': 500, 'step3': 300}, 'image_size': 128, 'load_gt_depth': False, 'img_list_path': 'data/celeba/list_200-399.txt', 'img_root': 'data/celeba', 'latent_root': 'data/celeba/latents', 'model_name': 'gan2shape_face', 'category': 'face', 'share_weight': False, 'relative_enc': True, 'use_mask': False, 'add_mean_L': True, 'add_mean_V': True, 'min_depth': 0.9, 'max_depth': 1.1, 'xyz_rotation_range': 60, 'xy_translation_range': 0.1, 'z_translation_range': 0, 'view_scale': 1.2, 'collect_iters': 100, 'batchsize': 16, 'lr': 0.0001, 'lam_perc': 0.5, 'lam_smooth': 0.01, 'lam_regular': 0.01, 'pretrain': 'checkpoints/gan2shape/celeba_pretrain.pth', 'view_mvn_path': 'checkpoints/view_light/celeba_view_mvn.pth', 'light_mvn_path': 'checkpoints/view_light/celeba_light_mvn.pth', 'rand_light': [-1, 1, -0.2, 0.8, -0.1, 0.6, -0.6], 'channel_multiplier': 1, 'gan_size': 128, 'gan_ckpt': 'checkpoints/stylegan2/stylegan2-celeba-config-e.pt', 'F1_d': 2, 'rot_center_depth': 1.0, 'fov': 10, 'tex_cube_size': 2, 'config': 'configs/celeba.yml', 'seed': 0, 'num_workers': 4, 'distributed': False}
+Load config from yml file: configs/celeba.yml
+Loading configs from configs/celeba.yml
+{'checkpoint_dir': 'results/celeba', 'save_checkpoint_freq': 500, 'keep_num_checkpoint': 1, 'use_logger': True, 'log_freq': 100, 'joint_train': False, 'independent': True, 'reset_weight': True, 'save_results': True, 'num_stage': 4, 'flip1_cfg': [False, False, False, False], 'flip3_cfg': [True, False, False, False], 'stage_len_dict': {'step1': 600, 'step2': 600, 'step3': 400}, 'stage_len_dict2': {'step1': 200, 'step2': 500, 'step3': 300}, 'image_size': 128, 'load_gt_depth': False, 'img_list_path': 'data/celeba/list_200-399.txt', 'img_root': 'data/celeba', 'latent_root': 'data/celeba/latents', 'model_name': 'gan2shape_face', 'category': 'face', 'share_weight': False, 'relative_enc': True, 'use_mask': False, 'add_mean_L': True, 'add_mean_V': True, 'min_depth': 0.9, 'max_depth': 1.1, 'xyz_rotation_range': 60, 'xy_translation_range': 0.1, 'z_translation_range': 0, 'view_scale': 1.2, 'collect_iters': 100, 'batchsize': 16, 'lr': 0.0001, 'lam_perc': 0.5, 'lam_smooth': 0.01, 'lam_regular': 0.01, 'pretrain': 'checkpoints/gan2shape/celeba_pretrain.pth', 'view_mvn_path': 'checkpoints/view_light/celeba_view_mvn.pth', 'light_mvn_path': 'checkpoints/view_light/celeba_light_mvn.pth', 'rand_light': [-1, 1, -0.2, 0.8, -0.1, 0.6, -0.6], 'channel_multiplier': 1, 'gan_size': 128, 'gan_ckpt': 'checkpoints/stylegan2/stylegan2-celeba-config-e.pt', 'F1_d': 2, 'rot_center_depth': 1.0, 'fov': 10, 'tex_cube_size': 2, 'config': 'configs/celeba.yml', 'seed': 0, 'num_workers': 4, 'distributed': False}
+Load config from yml file: configs/celeba.yml
+Loading configs from configs/celeba.yml
+{'checkpoint_dir': 'results/celeba', 'save_checkpoint_freq': 500, 'keep_num_checkpoint': 1, 'use_logger': True, 'log_freq': 100, 'joint_train': False, 'independent': True, 'reset_weight': True, 'save_results': True, 'num_stage': 4, 'flip1_cfg': [False, False, False, False], 'flip3_cfg': [True, False, False, False], 'stage_len_dict': {'step1': 600, 'step2': 600, 'step3': 400}, 'stage_len_dict2': {'step1': 200, 'step2': 500, 'step3': 300}, 'image_size': 128, 'load_gt_depth': False, 'img_list_path': 'data/celeba/list_200-399.txt', 'img_root': 'data/celeba', 'latent_root': 'data/celeba/latents', 'model_name': 'gan2shape_face', 'category': 'face', 'share_weight': False, 'relative_enc': True, 'use_mask': False, 'add_mean_L': True, 'add_mean_V': True, 'min_depth': 0.9, 'max_depth': 1.1, 'xyz_rotation_range': 60, 'xy_translation_range': 0.1, 'z_translation_range': 0, 'view_scale': 1.2, 'collect_iters': 100, 'batchsize': 16, 'lr': 0.0001, 'lam_perc': 0.5, 'lam_smooth': 0.01, 'lam_regular': 0.01, 'pretrain': 'checkpoints/gan2shape/celeba_pretrain.pth', 'view_mvn_path': 'checkpoints/view_light/celeba_view_mvn.pth', 'light_mvn_path': 'checkpoints/view_light/celeba_light_mvn.pth', 'rand_light': [-1, 1, -0.2, 0.8, -0.1, 0.6, -0.6], 'channel_multiplier': 1, 'gan_size': 128, 'gan_ckpt': 'checkpoints/stylegan2/stylegan2-celeba-config-e.pt', 'F1_d': 2, 'rot_center_depth': 1.0, 'fov': 10, 'tex_cube_size': 2, 'config': 'configs/celeba.yml', 'seed': 0, 'num_workers': 4, 'distributed': False}
+Setting up Perceptual loss...
+Setting up Perceptual loss...
+Setting up Perceptual loss...
+Setting up Perceptual loss...
+Loading model from: C:\Users\admin\GAN2Shape\gan2shape\stylegan2\stylegan2-pytorch\lpips\weights\v0.1\vgg.pth
+Loading model from: C:\Users\admin\GAN2Shape\gan2shape\stylegan2\stylegan2-pytorch\lpips\weights\v0.1\vgg.pth
+Loading model from: C:\Users\admin\GAN2Shape\gan2shape\stylegan2\stylegan2-pytorch\lpips\weights\v0.1\vgg.pth
+Loading model from: C:\Users\admin\GAN2Shape\gan2shape\stylegan2\stylegan2-pytorch\lpips\weights\v0.1\vgg.pth
+...[net-lin [vgg]] initialized
+...Done
+...[net-lin [vgg]] initialized
+...Done
+...[net-lin [vgg]] initialized
+...Done
+...[net-lin [vgg]] initialized
+...Done
+Traceback (most recent call last):
+  File "run.py", line 33, in <module>
+    trainer = Trainer(cfgs, GAN2Shape)
+  File "C:\Users\admin\GAN2Shape\gan2shape\trainer.py", line 23, in __init__
+    self.model = model(cfgs)
+  File "C:\Users\admin\GAN2Shape\gan2shape\model.py", line 92, in __init__
+    self.renderer = Renderer(cfgs, self.image_size)
+  File "C:\Users\admin\GAN2Shape\gan2shape\renderer\renderer.py", line 46, in __init__
+    self.inv_K = self.inv_K_origin.clone()
+RuntimeError: CUDA error: no kernel image is available for execution on the device
+Traceback (most recent call last):
+  File "run.py", line 33, in <module>
+    trainer = Trainer(cfgs, GAN2Shape)
+  File "C:\Users\admin\GAN2Shape\gan2shape\trainer.py", line 23, in __init__
+    self.model = model(cfgs)
+  File "C:\Users\admin\GAN2Shape\gan2shape\model.py", line 92, in __init__
+    self.renderer = Renderer(cfgs, self.image_size)
+  File "C:\Users\admin\GAN2Shape\gan2shape\renderer\renderer.py", line 46, in __init__
+    self.inv_K = self.inv_K_origin.clone()
+RuntimeError: CUDA error: no kernel image is available for execution on the device
+Traceback (most recent call last):
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\torch\distributed\launch.py", line 246, in <module>
+    main()
+  File "C:\Users\admin\anaconda3\envs\new3d\lib\site-packages\torch\distributed\launch.py", line 242, in main
+    cmd=cmd)
+subprocess.CalledProcessError: Command '['C:\\Users\\admin\\anaconda3\\envs\\new3d\\python.exe', '-u', 'run.py', '--local_rank=3', '--launcher', 'pytorch', '--config', 'configs/celeba.yml']' returned non-zero exit status 1.
+*****************************************
+Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+*****************************************
+Traceback (most recent call last):
+  File "run.py", line 33, in <module>
+    trainer = Trainer(cfgs, GAN2Shape)
+  File "C:\Users\admin\GAN2Shape\gan2shape\trainer.py", line 23, in __init__
+    self.model = model(cfgs)
+  File "C:\Users\admin\GAN2Shape\gan2shape\model.py", line 92, in __init__
+    self.renderer = Renderer(cfgs, self.image_size)
+  File "C:\Users\admin\GAN2Shape\gan2shape\renderer\renderer.py", line 46, in __init__
+    self.inv_K = self.inv_K_origin.clone()
+RuntimeError: CUDA error: no kernel image is available for execution on the device
+Traceback (most recent call last):
+  File "run.py", line 33, in <module>
+    trainer = Trainer(cfgs, GAN2Shape)
+  File "C:\Users\admin\GAN2Shape\gan2shape\trainer.py", line 23, in __init__
+    self.model = model(cfgs)
+  File "C:\Users\admin\GAN2Shape\gan2shape\model.py", line 92, in __init__
+    self.renderer = Renderer(cfgs, self.image_size)
+  File "C:\Users\admin\GAN2Shape\gan2shape\renderer\renderer.py", line 46, in __init__
+    self.inv_K = self.inv_K_origin.clone()
+RuntimeError: CUDA error: no kernel image is available for execution on the device
