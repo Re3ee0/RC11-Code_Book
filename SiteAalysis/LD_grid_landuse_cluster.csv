@@ -1,0 +1,247 @@
+grid,longitude,latitude,1st Most poi Type,2nd Most poi Type,3rd Most poi Type,4th Most poi Type,5th Most poi Type,6th Most poi Type,Cluster Labels
+"0,0",2.22638995,48.88590573,apartments,park, apartments,retail,house,industrial,0
+"1,0",2.22780185,48.88590573,park, apartments,residential,hotel,house,industrial,3
+"2,0",2.22921375,48.88590573,apartments,school,hotel,residential,house,industrial,0
+"3,0",2.23062565,48.88590573,hotel,park,allotments,service,school,residential,3
+"4,0",2.23203755,48.88590573,park, apartments,residential,hotel,house,industrial,3
+"5,0",2.23344945,48.88590573,garages,house,park,residential,hotel,industrial,3
+"6,0",2.23486135,48.88590573,house,apartments, apartments,retail,industrial,meadow,0
+"9,0",2.23909705,48.88590573,grass,residential,hotel,house,industrial,meadow,1
+"11,0",2.24192085,48.88590573,apartments, apartments,retail,house,industrial,meadow,0
+"12,0",2.24333275,48.88590573,apartments, apartments,retail,house,industrial,meadow,0
+"13,0",2.24474465,48.88590573,apartments, apartments,retail,house,industrial,meadow,0
+"14,0",2.24615655,48.88590573,apartments,grass, apartments,residential,house,industrial,0
+"15,0",2.24756845,48.88590573, school,roof,apartments,service,office,residential,3
+"16,0",2.24898035,48.88590573,office, apartments,residential,hotel,house,industrial,2
+"17,0",2.25039225,48.88590573,office,grass,residential,hotel,house,industrial,2
+"18,0",2.25180415,48.88590573,grass,residential,hotel,house,industrial,meadow,1
+"19,0",2.25321605,48.88590573,residential, apartments,hotel,house,industrial,meadow,3
+"2,1",2.22921375,48.88684119,apartments, apartments,retail,house,industrial,meadow,0
+"3,1",2.23062565,48.88684119,office, apartments,residential,hotel,house,industrial,2
+"4,1",2.23203755,48.88684119,apartments,office, apartments,retail,house,industrial,0
+"5,1",2.23344945,48.88684119,apartments,park, apartments,retail,house,industrial,0
+"6,1",2.23486135,48.88684119,apartments,house, apartments,retail,industrial,meadow,0
+"7,1",2.23627325,48.88684119,grass,residential,hotel,house,industrial,meadow,1
+"9,1",2.23909705,48.88684119,apartments, apartments,retail,house,industrial,meadow,0
+"10,1",2.24050895,48.88684119,grass,forest, apartments,residential,house,industrial,1
+"11,1",2.24192085,48.88684119,apartments, office,forest,grass,residential,house,0
+"12,1",2.24333275,48.88684119,apartments, office, apartments,retail,house,industrial,0
+"13,1",2.24474465,48.88684119,grass,apartments, office, apartments,residential,house,1
+"14,1",2.24615655,48.88684119,grass,scrub,apartments, apartments,residential,house,1
+"15,1",2.24756845,48.88684119,apartments,grass,office,park, apartments,residential,0
+"16,1",2.24898035,48.88684119,grass,scrub,office,residential,hotel,house,1
+"18,1",2.25180415,48.88684119,tower,office,roof, apartments,recreation_ground,hotel,2
+"0,2",2.22638995,48.88777665,residential, apartments,hotel,house,industrial,meadow,3
+"1,2",2.22780185,48.88777665,residential,grass,hotel,house,industrial,meadow,1
+"2,2",2.22921375,48.88777665,grass,residential,hotel,house,industrial,meadow,1
+"3,2",2.23062565,48.88777665,office, apartments,residential,hotel,house,industrial,2
+"4,2",2.23203755,48.88777665,office, apartments,residential,hotel,house,industrial,2
+"5,2",2.23344945,48.88777665,office,apartments, apartments,retail,house,industrial,2
+"6,2",2.23486135,48.88777665,apartments, apartments,retail,house,industrial,meadow,0
+"7,2",2.23627325,48.88777665,grass,residential,hotel,house,industrial,meadow,1
+"8,2",2.23768515,48.88777665,grass,apartments,scrub, apartments,residential,house,1
+"9,2",2.23909705,48.88777665,grass,scrub,apartments, apartments,residential,house,1
+"10,2",2.24050895,48.88777665,grass,scrub,apartments, apartments,residential,house,1
+"11,2",2.24192085,48.88777665,grass,scrub,residential,hotel,house,industrial,1
+"12,2",2.24333275,48.88777665,grass,tower,public,residential,hotel,house,1
+"13,2",2.24474465,48.88777665,tower,office, apartments,residential,hotel,house,3
+"14,2",2.24615655,48.88777665,office,recreation_ground,tower, apartments,residential,hotel,2
+"15,2",2.24756845,48.88777665,office,hotel,grass,park,recreation_ground,residential,2
+"16,2",2.24898035,48.88777665,tower,scrub,hotel,office,grass,recreation_ground,3
+"17,2",2.25039225,48.88777665,scrub,roof,tower, apartments,recreation_ground,hotel,3
+"18,2",2.25180415,48.88777665,scrub,roof,tower, apartments,recreation_ground,hotel,3
+"19,2",2.25321605,48.88777665,grass,scrub,residential,hotel,house,industrial,1
+"0,3",2.22638995,48.88871212,residential, apartments,hotel,house,industrial,meadow,3
+"1,3",2.22780185,48.88871212,residential, grass,grass, apartments,house,industrial,3
+"2,3",2.22921375,48.88871212,grass, grass,residential, apartments,house,industrial,1
+"3,3",2.23062565,48.88871212,grass,residential,hotel,house,industrial,meadow,1
+"4,3",2.23203755,48.88871212,apartments, apartments,retail,house,industrial,meadow,0
+"5,3",2.23344945,48.88871212,school,office, apartments,residential,hotel,house,2
+"7,3",2.23627325,48.88871212,grass,residential,hotel,house,industrial,meadow,1
+"8,3",2.23768515,48.88871212,grass,apartments, apartments,residential,house,industrial,1
+"9,3",2.23909705,48.88871212,grass,apartments,scrub, apartments,residential,house,1
+"10,3",2.24050895,48.88871212,grass,scrub,tower,apartments, apartments,recreation_ground,1
+"11,3",2.24192085,48.88871212,scrub,grass,residential,hotel,house,industrial,3
+"12,3",2.24333275,48.88871212,grass,office,scrub,residential,hotel,house,1
+"13,3",2.24474465,48.88871212,scrub,tower,apartments,park,office, apartments,3
+"14,3",2.24615655,48.88871212,office,scrub,tower, apartments,recreation_ground,hotel,2
+"15,3",2.24756845,48.88871212,hotel,office,scrub, apartments,residential,house,3
+"16,3",2.24898035,48.88871212,scrub,hotel,grass,residential,house,industrial,3
+"17,3",2.25039225,48.88871212,scrub,roof,office, apartments,recreation_ground,hotel,3
+"18,3",2.25180415,48.88871212,scrub,roof, apartments,recreation_ground,hotel,house,3
+"19,3",2.25321605,48.88871212,scrub,grass,residential,hotel,house,industrial,3
+"0,4",2.22638995,48.88964758, grass,residential, apartments,retail,house,industrial,3
+"1,4",2.22780185,48.88964758,residential, grass, apartments,retail,house,industrial,3
+"2,4",2.22921375,48.88964758,residential,apartments, grass, apartments,retail,house,3
+"3,4",2.23062565,48.88964758,apartments,forest, apartments,residential,house,industrial,0
+"4,4",2.23203755,48.88964758,apartments,residential, apartments,retail,house,industrial,0
+"5,4",2.23344945,48.88964758,residential, apartments,hotel,house,industrial,meadow,3
+"6,4",2.23486135,48.88964758,grass,tower,residential,hotel,house,industrial,1
+"7,4",2.23627325,48.88964758,grass,commercial,tower, apartments,recreation_ground,house,1
+"8,4",2.23768515,48.88964758,grass,commercial, apartments,residential,house,industrial,1
+"9,4",2.23909705,48.88964758,grass,tower,office,commercial, office, apartments,1
+"10,4",2.24050895,48.88964758,scrub,office,tower,commercial,grass, apartments,3
+"11,4",2.24192085,48.88964758,scrub,tower,grass,recreation_ground,hotel,house,3
+"12,4",2.24333275,48.88964758,grass,scrub,tower,office,recreation_ground,hotel,1
+"13,4",2.24474465,48.88964758,apartments,tower, apartments,residential,house,industrial,0
+"14,4",2.24615655,48.88964758,scrub,apartments,grass, apartments,residential,house,3
+"15,4",2.24756845,48.88964758,scrub,grass,apartments,allotments,office, apartments,3
+"16,4",2.24898035,48.88964758,scrub,office,grass,residential,hotel,house,3
+"17,4",2.25039225,48.88964758,tower,grass,office,residential,hotel,house,1
+"18,4",2.25180415,48.88964758,tower,scrub,park,industrial, apartments,recreation_ground,3
+"19,4",2.25321605,48.88964758,retail,church,park,tower,scrub,residential,3
+"0,5",2.22638995,48.89058304,residential, grass,park,allotments, apartments,retail,3
+"1,5",2.22780185,48.89058304,residential, grass,allotments, apartments,retail,house,3
+"2,5",2.22921375,48.89058304,apartments,residential, apartments,retail,house,industrial,0
+"3,5",2.23062565,48.89058304,apartments,grass,residential, apartments,house,industrial,0
+"4,5",2.23203755,48.89058304,grass,office,residential,apartments, apartments,house,1
+"5,5",2.23344945,48.89058304,grass,office,residential,hotel,house,industrial,1
+"6,5",2.23486135,48.89058304,grass,commercial, commercial,tower,scrub,roof,3
+"7,5",2.23627325,48.89058304,roof,commercial, commercial,scrub,comercial,recreation_ground,3
+"8,5",2.23768515,48.89058304, commercial,commercial,grass,hotel,house,industrial,3
+"9,5",2.23909705,48.89058304,office,commercial, commercial, office,tower,roof,2
+"10,5",2.24050895,48.89058304,office,roof,commercial,tower, apartments,recreation_ground,2
+"11,5",2.24192085,48.89058304,grass,scrub,tower,office,commercial, apartments,1
+"12,5",2.24333275,48.89058304,office, apartments,residential,hotel,house,industrial,2
+"13,5",2.24474465,48.89058304,office,scrub,grass,residential,hotel,house,2
+"14,5",2.24615655,48.89058304,grass,scrub,office,residential,hotel,house,1
+"15,5",2.24756845,48.89058304,tower,apartments,office, apartments,residential,house,3
+"16,5",2.24898035,48.89058304,office,scrub,grass,residential,hotel,house,2
+"17,5",2.25039225,48.89058304,office,scrub,grass,school,recreation_ground,hotel,2
+"18,5",2.25180415,48.89058304,scrub,grass,industrial,office,school,park,3
+"19,5",2.25321605,48.89058304,grass,scrub,office,industrial,residential,hotel,1
+"0,6",2.22638995,48.8915185,residential,park,allotments,grass, apartments,house,3
+"1,6",2.22780185,48.8915185,residential,park,allotments, apartments,retail,house,3
+"2,6",2.22921375,48.8915185,grass,tower,residential,hotel,house,industrial,1
+"3,6",2.23062565,48.8915185,grass,scrub,tower,office,recreation_ground,hotel,1
+"4,6",2.23203755,48.8915185,grass,office,scrub,residential,hotel,house,1
+"5,6",2.23344945,48.8915185,grass,office,residential,hotel,house,industrial,1
+"6,6",2.23486135,48.8915185,grass, commercial,commercial,roof,recreation_ground,hotel,1
+"7,6",2.23627325,48.8915185,roof,scrub,commercial, commercial,comercial,recreation_ground,3
+"8,6",2.23768515,48.8915185,scrub,office,commercial, commercial,roof,recreation_ground,3
+"9,6",2.23909705,48.8915185,commercial,office, apartments,residential,house,industrial,2
+"10,6",2.24050895,48.8915185,scrub, commercial,office,commercial,recreation_ground,hotel,3
+"11,6",2.24192085,48.8915185,grass, commercial,scrub,recreation_ground,hotel,house,1
+"12,6",2.24333275,48.8915185,office,grass, commercial,residential,hotel,house,2
+"13,6",2.24474465,48.8915185,office,tower,scrub, apartments,recreation_ground,hotel,2
+"14,6",2.24615655,48.8915185,grass,office,tower,residential,hotel,house,1
+"15,6",2.24756845,48.8915185,grass,scrub,roof,retail,stadium,public,1
+"16,6",2.24898035,48.8915185,grass,scrub,office,residential,hotel,house,1
+"17,6",2.25039225,48.8915185,school,grass,office,park,residential,hotel,3
+"18,6",2.25180415,48.8915185,school,park,grass,residential,hotel,house,3
+"19,6",2.25321605,48.8915185,apartments,park, apartments,retail,house,industrial,0
+"0,7",2.22638995,48.89245396,dormitory,residential,grass,park, apartments,house,3
+"1,7",2.22780185,48.89245396,cemetery,park,residential,retail,house,industrial,3
+"2,7",2.22921375,48.89245396,cemetery,tower,retail,house,industrial,meadow,3
+"3,7",2.23062565,48.89245396,tower,office,grass,cemetery,residential,house,2
+"4,7",2.23203755,48.89245396,office,tower, commercial,grass,hotel,recreation_ground,2
+"5,7",2.23344945,48.89245396,office,grass,scrub,hotel,residential,house,2
+"6,7",2.23486135,48.89245396,office,commercial,scrub, office, apartments,residential,2
+"7,7",2.23627325,48.89245396, office,office,commercial, apartments,residential,house,2
+"8,7",2.23768515,48.89245396,commercial, apartments,residential,house,industrial,meadow,3
+"9,7",2.23909705,48.89245396,commercial,construction, apartments,grass,house,industrial,3
+"10,7",2.24050895,48.89245396,construction,commercial,church, commercial,tower,residential,3
+"11,7",2.24192085,48.89245396,church,scrub, commercial,tower,terrace,recreation_ground,3
+"12,7",2.24333275,48.89245396,scrub,grass,tower,recreation_ground,hotel,house,3
+"13,7",2.24474465,48.89245396,grass,tower,scrub, public,apartments, apartments,1
+"14,7",2.24615655,48.89245396,grass,scrub,tower,office,recreation_ground,hotel,1
+"15,7",2.24756845,48.89245396,scrub,tower,grass,recreation_ground,hotel,house,3
+"16,7",2.24898035,48.89245396,apartments,grass,park, apartments,residential,house,0
+"17,7",2.25039225,48.89245396,apartments,park, apartments,retail,house,industrial,0
+"18,7",2.25180415,48.89245396,park, apartments,residential,hotel,house,industrial,3
+"19,7",2.25321605,48.89245396,grass,residential,hotel,house,industrial,meadow,1
+"0,8",2.22638995,48.89338942,residential,college,forest,roof,grass,park,3
+"1,8",2.22780185,48.89338942,government,grass,cemetery,residential,park,stadium,3
+"3,8",2.23062565,48.89338942,office, commercial, apartments,residential,hotel,house,2
+"4,8",2.23203755,48.89338942,office, commercial,grass,college,hotel,house,2
+"5,8",2.23344945,48.89338942,scrub, commercial,college,hotel,house,industrial,3
+"6,8",2.23486135,48.89338942,grass,cemetery,retail,house,industrial,meadow,1
+"7,8",2.23627325,48.89338942,office, office, apartments,retail,house,industrial,2
+"8,8",2.23768515,48.89338942,construction,office,commercial, office, apartments,residential,3
+"9,8",2.23909705,48.89338942,commercial,construction, apartments,grass,house,industrial,3
+"10,8",2.24050895,48.89338942,commercial,tower, apartments,residential,house,industrial,3
+"11,8",2.24192085,48.89338942,scrub,grass,office,tower,recreation_ground,hotel,3
+"12,8",2.24333275,48.89338942,scrub,tower,grass,commercial,office, apartments,3
+"13,8",2.24474465,48.89338942, public,apartments,grass,commercial,tower,residential,0
+"14,8",2.24615655,48.89338942,grass,industrial,apartments, apartments,residential,house,1
+"15,8",2.24756845,48.89338942,scrub,office,tower, apartments,recreation_ground,hotel,3
+"16,8",2.24898035,48.89338942,apartments,grass,office, apartments,residential,house,0
+"17,8",2.25039225,48.89338942,apartments, apartments,retail,house,industrial,meadow,0
+"18,8",2.25180415,48.89338942, apartments,park,apartments,retail,house,industrial,3
+"19,8",2.25321605,48.89338942,meadow,park, apartments,residential,hotel,house,3
+"0,9",2.22638995,48.89432488,residential,office,park,apartments, apartments,retail,3
+"1,9",2.22780185,48.89432488,park,cemetery,grass,retail,house,industrial,3
+"2,9",2.22921375,48.89432488,apartments, apartments,retail,house,industrial,meadow,0
+"3,9",2.23062565,48.89432488, commercial,grass,apartments,residential,office,cemetery,3
+"4,9",2.23203755,48.89432488, commercial,cemetery,grass,residential,hotel,house,3
+"6,9",2.23486135,48.89432488,grass,scrub,cemetery,residential,house,industrial,1
+"7,9",2.23627325,48.89432488,grass,office,residential,hotel,house,industrial,1
+"8,9",2.23768515,48.89432488,grass,office,residential,hotel,house,industrial,1
+"9,9",2.23909705,48.89432488,grass,scrub,residential,hotel,house,industrial,1
+"10,9",2.24050895,48.89432488,scrub,commercial, apartments,residential,house,industrial,3
+"11,9",2.24192085,48.89432488,grass,apartments,scrub,park,office, apartments,1
+"12,9",2.24333275,48.89432488,grass,park,tower,commercial,retail,scrub,1
+"13,9",2.24474465,48.89432488,grass,commercial, public,school, apartments,recreation_ground,1
+"14,9",2.24615655,48.89432488,apartments,grass,school, apartments,residential,house,0
+"15,9",2.24756845,48.89432488,apartments,grass,school, apartments,residential,house,0
+"16,9",2.24898035,48.89432488,park,grass,residential,hotel,house,industrial,1
+"17,9",2.25039225,48.89432488,park,apartments, apartments,retail,house,industrial,0
+"18,9",2.25180415,48.89432488, apartments,apartments,retail,house,industrial,meadow,0
+"19,9",2.25321605,48.89432488,grass,park,apartments, apartments,residential,house,1
+"0,10",2.22638995,48.89526035,apartments,residential,grass, apartments,house,industrial,0
+"1,10",2.22780185,48.89526035,grass,stadium,residential,hotel,house,industrial,1
+"2,10",2.22921375,48.89526035,stadium,cemetery,retail,house,industrial,meadow,3
+"3,10",2.23062565,48.89526035,stadium,residential,cemetery,retail,house,industrial,3
+"6,10",2.23486135,48.89526035,office,scrub,grass,cemetery,residential,house,2
+"7,10",2.23627325,48.89526035,scrub,office,tower, apartments,recreation_ground,hotel,3
+"8,10",2.23768515,48.89526035,office,tower, apartments,residential,hotel,house,2
+"9,10",2.23909705,48.89526035,hotel,grass,office,residential,house,industrial,1
+"10,10",2.24050895,48.89526035,grass,office,meadow,residential,hotel,house,1
+"11,10",2.24192085,48.89526035,grass,office,park,scrub,meadow,apartments,1
+"12,10",2.24333275,48.89526035,meadow,office,grass,retail,stadium,public,2
+"13,10",2.24474465,48.89526035,school,apartments,meadow,garage,roof,residential,3
+"14,10",2.24615655,48.89526035,apartments,terrace,residential, apartments,house,industrial,0
+"15,10",2.24756845,48.89526035,apartments,school,grass, apartments,residential,house,0
+"16,10",2.24898035,48.89526035,apartments,park,grass, apartments,residential,house,0
+"17,10",2.25039225,48.89526035,park,grass,apartments, apartments,residential,house,3
+"18,10",2.25180415,48.89526035,park, apartments,residential,hotel,house,industrial,3
+"19,10",2.25321605,48.89526035, commercial,grass,residential,hotel,house,industrial,1
+"0,11",2.22638995,48.89619581,residential,apartments,grass,office, apartments,house,0
+"1,11",2.22780185,48.89619581,apartments,office,stadium,residential,grass, apartments,0
+"2,11",2.22921375,48.89619581,stadium, apartments,residential,hotel,house,industrial,3
+"3,11",2.23062565,48.89619581,stadium,cemetery,retail,house,industrial,meadow,3
+"5,11",2.23344945,48.89619581,cemetery,retail,house,industrial,meadow,office,3
+"6,11",2.23486135,48.89619581,university,scrub,residential,hotel,house,industrial,3
+"7,11",2.23627325,48.89619581,scrub,university,tower,recreation_ground,hotel,house,3
+"8,11",2.23768515,48.89619581,office,scrub,university, commercial,recreation_ground,hotel,2
+"9,11",2.23909705,48.89619581,scrub,grass,office,meadow,residential,hotel,3
+"10,11",2.24050895,48.89619581,grass,office,apartments,house, house, apartments,2
+"11,11",2.24192085,48.89619581,house,park,office,meadow, apartments,residential,3
+"12,11",2.24333275,48.89619581,meadow,office,roof,house,garages,residential,3
+"13,11",2.24474465,48.89619581,apartments,roof,office,retail,house,industrial,0
+"14,11",2.24615655,48.89619581,apartments,detached,house,roof, apartments,residential,0
+"15,11",2.24756845,48.89619581,apartments,garage,roof, apartments,residential,house,0
+"16,11",2.24898035,48.89619581,apartments,roof,house,apartments;retail,park,retail,0
+"17,11",2.25039225,48.89619581,park,apartments;retail, apartments,retail,house,industrial,3
+"18,11",2.25180415,48.89619581, commercial,park, apartments,residential,hotel,house,3
+"19,11",2.25321605,48.89619581, commercial, apartments,residential,hotel,house,industrial,3
+"0,12",2.22638995,48.89713127,office,construction,apartments, apartments,residential,house,2
+"1,12",2.22780185,48.89713127,office,apartments,construction, apartments,residential,house,2
+"2,12",2.22921375,48.89713127,construction,stadium,office, apartments,residential,house,3
+"3,12",2.23062565,48.89713127,construction,stadium, apartments,residential,house,industrial,3
+"4,12",2.23203755,48.89713127,construction, apartments,residential,house,industrial,meadow,3
+"5,12",2.23344945,48.89713127,apartments,garage, apartments,residential,house,industrial,0
+"6,12",2.23486135,48.89713127,apartments,hotel, apartments,terrace,stadium,house,0
+"7,12",2.23627325,48.89713127,apartments,university,hotel,scrub,terrace,recreation_ground,0
+"8,12",2.23768515,48.89713127, commercial,apartments,scrub,office,university,park,3
+"9,12",2.23909705,48.89713127,park,office,meadow,scrub, apartments,residential,3
+"10,12",2.24050895,48.89713127, house,house,grass,school,retail,meadow,3
+"11,12",2.24192085,48.89713127,house, house,roof,park,school,residential,3
+"12,12",2.24333275,48.89713127,house, house,apartments,garages,roof,meadow,3
+"13,12",2.24474465,48.89713127,house,apartments,office,meadow, house, apartments,0
+"14,12",2.24615655,48.89713127,house,apartments,semidetached_house,meadow, apartments,residential,0
+"15,12",2.24756845,48.89713127,house,apartments, apartments,retail,industrial,meadow,3
+"16,12",2.24898035,48.89713127,dormitory, apartments,residential,house,industrial,meadow,3
+"17,12",2.25039225,48.89713127,apartments,house,dormitory,grass, apartments,residential,0
+"18,12",2.25180415,48.89713127,house,apartments,garage, apartments,residential,industrial,0
+"19,12",2.25321605,48.89713127,apartments,house,garages, apartments,residential,industrial,0

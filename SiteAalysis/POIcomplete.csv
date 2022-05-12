@@ -1,0 +1,539 @@
+﻿Unnamed: 0,poi_name,poi_type,poi_lat,poi_lng,poi_rating,grid,Venue Category
+2,Aparthotel Adagio access La Défense Place Charras,"['lodging', 'point_of_interest', 'establishment']",48.8948587,2.2489426,3.2,"16,10",Education
+6,Aparthotel Adagio access La Défense Léonard de Vinci,"['lodging', 'point_of_interest', 'establishment']",48.8968939,2.2346742,3.4,"6,12",Education
+7,Fraser Suites Harmonie Paris La Défense,"['lodging', 'point_of_interest', 'establishment']",48.8883132,2.2522704,4.2,"18,3",Education
+8,Hilton Paris La Defense,"['lodging', 'point_of_interest', 'establishment']",48.8928913,2.2383783,4.2,"9,8",Education
+9,MGallery Nest Paris La Defense,"['lodging', 'point_of_interest', 'establishment']",48.88839,2.247282,4.3,"15,3",Education
+10,Pullman Paris La Défense,"['lodging', 'point_of_interest', 'establishment']",48.8950957,2.2390057,4.4,"9,10",Education
+12,Renaissance Paris La Defense Hotel,"['lodging', 'point_of_interest', 'establishment']",48.8926544,2.2330651,4.2,"5,8",Education
+14,Hôtel Mercure Paris La Défense,"['lodging', 'point_of_interest', 'establishment']",48.8956542,2.251286,3.9,"18,11",Education
+15,Citadines La Défense Paris (Apart hotel Paris),"['real_estate_agency', 'lodging', 'point_of_interest', 'establishment']",48.8886066,2.2522933,3.8,"19,3",Education
+16,Novotel Paris La Défense,"['lodging', 'point_of_interest', 'establishment']",48.8880473,2.2528727,3.9,"19,2",Education
+18,Hôtel la Régence,"['lodging', 'point_of_interest', 'establishment']",48.894249,2.248085,4,"16,9",Education
+20,Aparthotel Adagio La Défense Esplanade,"['lodging', 'point_of_interest', 'establishment']",48.888127,2.247936,3.7,"15,2",Education
+22,ibis Paris La Défense Centre,"['lodging', 'point_of_interest', 'establishment']",48.8880121,2.2525688,3.6,"19,2",Education
+24,Grande Arche de la Defense,"['tourist_attraction', 'point_of_interest', 'establishment']",48.8925978,2.2361121,4.4,"7,7",Education
+25,Star Of Life,"['lodging', 'point_of_interest', 'establishment']",48.8943251,2.2486904,4.4,"16,9",Education
+26,CNIT,"['shopping_mall', 'point_of_interest', 'establishment']",48.8927042,2.2394592,4.2,"9,8",Education
+27,Conseil départemental des Hauts-de-Seine 92,"['local_government_office', 'point_of_interest', 'establishment']",48.8961241,2.2311766,4.1,"3,11",Education
+28,Thales Group,"['point_of_interest', 'establishment']",48.8915013,2.2457149,4,"14,6",Education
+29,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8893797,2.2435553,3.1,"12,4",Education
+30,Aparthotel Adagio La Défense Kléber,"['lodging', 'point_of_interest', 'establishment']",48.8944491,2.2486943,3.6,"16,10",Education
+31,MONOPRIX CNIT,"['supermarket', 'department_store', 'convenience_store', 'grocery_or_supermarket', 'food', 'point_of_interest', 'clothing_store', 'store', 'establishment']",48.8926126,2.2396137,3.8,"9,7",Education
+33,SAINT-GOBAIN VITRAGE BÂTIMENT,"['point_of_interest', 'establishment']",48.8895059,2.2491586,4.1,"16,4",Education
+34,Apple Les Quatre Temps,"['electronics_store', 'point_of_interest', 'store', 'establishment']",48.890078,2.2371343,3.6,"8,5",Education
+35,Le Paradis du Fruit,"['restaurant', 'food', 'point_of_interest', 'establishment']",48.890733,2.2365781,3.6,"7,5",Education
+36,Decathlon,"['bicycle_store', 'point_of_interest', 'clothing_store', 'store', 'establishment']",48.8926126,2.2396137,4.1,"9,7",Education
+37,Swatch La Défense Paris C/Cial Les 4 Temps,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8907162,2.2379876,3.7,"8,5",Education
+38,COPY-TOP La Défense / Imprimerie Paris La Défense,"['point_of_interest', 'store', 'establishment']",48.8911197,2.2425693,3.8,"12,6",Education
+39,Bostik Sa,"['point_of_interest', 'establishment']",48.8930998,2.2437954,5,"12,8",Education
+42,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+43,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+44,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+46,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+47,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+48,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+49,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+50,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+51,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+52,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+53,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+54,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+55,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+56,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+57,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+58,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+59,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+62,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+63,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+64,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+66,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+67,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+68,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+69,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+70,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+71,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+72,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+73,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+74,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+75,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+76,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+77,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+78,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+79,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+82,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+83,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+84,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+86,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+87,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+88,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+89,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+90,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+91,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+92,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+93,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+94,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+95,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+96,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+97,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+98,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+99,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+102,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+103,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+104,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+106,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+107,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+108,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+109,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+110,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+111,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+112,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+113,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+114,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+115,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+116,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+117,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+118,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+119,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+122,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+123,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+124,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+126,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+127,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+128,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+129,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+130,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+131,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+132,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+133,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+134,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+135,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+136,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+137,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+138,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+139,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+142,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+143,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+144,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+146,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+147,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+148,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+149,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+150,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+151,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+152,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+153,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+154,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+155,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+156,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+157,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+158,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+159,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+162,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+163,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+164,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+166,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+167,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+168,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+169,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+170,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+171,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+172,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+173,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+174,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+175,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+176,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+177,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+178,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+179,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+182,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+183,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+184,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+186,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+187,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+188,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+189,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+190,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+191,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+192,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+193,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+194,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+195,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+196,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+197,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+198,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+199,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+202,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+203,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+204,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+206,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+207,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+208,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+209,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+210,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+211,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+212,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+213,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+214,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+215,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+216,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+217,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+218,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+219,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+222,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+223,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+224,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+226,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+227,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+228,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+229,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+230,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+231,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+232,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+233,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+234,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+235,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+236,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+237,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+238,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+239,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+242,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+243,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+244,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+246,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+247,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+248,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+249,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+250,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+251,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+252,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+253,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+254,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+255,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+256,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+257,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+258,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+259,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+262,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+263,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+264,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+266,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+267,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+268,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+269,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+270,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+271,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+272,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+273,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+274,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+275,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+276,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+277,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+278,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+279,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+282,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+283,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+284,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+286,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+287,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+288,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+289,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+290,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+291,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+292,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+293,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+294,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+295,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+296,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+297,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+298,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+299,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+302,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+303,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+304,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+306,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+307,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+308,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+309,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+310,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+311,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+312,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+313,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+314,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+315,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+316,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+317,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+318,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+319,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+322,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+323,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+324,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+326,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+327,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+328,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+329,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+330,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+331,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+332,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+333,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+334,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+335,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+336,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+337,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+338,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+339,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+342,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+343,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+344,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+346,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+347,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+348,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+349,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+350,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+351,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+352,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+353,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+354,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+355,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+356,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+357,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+358,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+359,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+362,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+363,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+364,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+366,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+367,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+368,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+369,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+370,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+371,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+372,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+373,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+374,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+375,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+376,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+377,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+378,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+379,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+382,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+383,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+384,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+386,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+387,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+388,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+389,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+390,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+391,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+392,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+393,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+394,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+395,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+396,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+397,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+398,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+399,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+402,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+403,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+404,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+406,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+407,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+408,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+409,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+410,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+411,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+412,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+413,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+414,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+415,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+416,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+417,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+418,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+419,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+422,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+423,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+424,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+426,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+427,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+428,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+429,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+430,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+431,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+432,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+433,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+434,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+435,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+436,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+437,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+438,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+439,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+442,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+443,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+444,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+446,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+447,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+448,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+449,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+450,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+451,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+452,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+453,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+454,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+455,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+456,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+457,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+458,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+459,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+462,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+463,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+464,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+466,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+467,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+468,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+469,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+470,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+471,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+472,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+473,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+474,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+475,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+476,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+477,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+478,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+479,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+482,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+483,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+484,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+486,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+487,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+488,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+489,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+490,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+491,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+492,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+493,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+494,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+495,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+496,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+497,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+498,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+499,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+502,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+503,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+504,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+506,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+507,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+508,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+509,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+510,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+511,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+512,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+513,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+514,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+515,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+516,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+517,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+518,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+519,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+522,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+523,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+524,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+526,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+527,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+528,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+529,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+530,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+531,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+532,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+533,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+534,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+535,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+536,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+537,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+538,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+539,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+542,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+543,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+544,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+546,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+547,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+548,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+549,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+550,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+551,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+552,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+553,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+554,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+555,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+556,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+557,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+558,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+559,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+562,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+563,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+564,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+566,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+567,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+568,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+569,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+570,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+571,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+572,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+573,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+574,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+575,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+576,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+577,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+578,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+579,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+582,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+583,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+584,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+586,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+587,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+588,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+589,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+590,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+591,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+592,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+593,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+594,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+595,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+596,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+597,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+598,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+599,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+602,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+603,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+604,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+606,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+607,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+608,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+609,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+610,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+611,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+612,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+613,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+614,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+615,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+616,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+617,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+618,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+619,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education
+622,Société Générale,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8970788,2.2375026,3.5,"8,12",Education
+623,BODY'minute,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",48.8906037,2.2373793,3,"8,5",Education
+624,Groupe Flo,"['bar', 'point_of_interest', 'establishment']",48.8898742,2.248481,3.6,"16,4",Education
+626,Guérin Joaillerie,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8904402,2.2384059,3.2,"9,5",Education
+627,Cargill France SAS,"['food', 'point_of_interest', 'establishment']",48.8890961,2.2389978,3.3,"9,4",Education
+628,AGATHA,"['jewelry_store', 'point_of_interest', 'store', 'establishment']",48.8901019,2.2373325,4.1,"8,5",Education
+629,Jaroen Thai Spa,"['spa', 'point_of_interest', 'establishment']",48.8967883,2.2484694,4,"16,12",Education
+630,PicWicToys,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8904131,2.2374167,4.1,"8,5",Education
+631,Cromology,"['point_of_interest', 'establishment']",48.8874581,2.2467903,3.6,"15,2",Education
+632,Etam,"['point_of_interest', 'clothing_store', 'store', 'establishment']",48.8907954,2.237153,4.1,"8,5",Education
+633,Aparthotel Adagio La Défense Courbevoie,"['lodging', 'point_of_interest', 'establishment']",48.8934422,2.25324,4.2,"19,8",Education
+634,Bowling Courbevoie,"['bowling_alley', 'point_of_interest', 'establishment']",48.894519,2.2532288,3.8,"19,10",Education
+635,Ecole Conte,"['university', 'point_of_interest', 'establishment']",48.8925491,2.2360895,4.2,"7,7",Education
+636,Syndicat des Ingrédients Cosmétiques et Tensio-Actifs,"['point_of_interest', 'establishment']",48.8865111,2.2440317,none,"13,1",Education
+637,LCL Banque et assurance,"['bank', 'atm', 'finance', 'insurance_agency', 'point_of_interest', 'establishment']",48.8967944,2.2377,3.6,"8,12",Education
+638,Racing Club de France Rugby,"['point_of_interest', 'establishment']",48.8956802,2.2296866,3.9,"2,11",Education
+639,EDF,"['point_of_interest', 'establishment']",48.8900217,2.2415634,3.7,"11,5",Education

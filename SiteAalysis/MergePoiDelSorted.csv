@@ -1,0 +1,552 @@
+﻿grid,name,fclass,latitude,longitude,Venue Category
+"15,2",Apogé,wine store,48.888249,2.248301,Retail
+"7,7",Grande Arche,viewpoint,48.892555,2.235893,Landmarks and Outdoors
+"17,12",Clinique Vétérinaire A. Ganivet,veterinary,48.89708,2.250135,Health and Medicine
+"0,10", ,vending_parking,48.895242,2.226158,Travel and Transportation
+"0,9", ,vending_parking,48.89389,2.226201,Travel and Transportation
+"0,9", ,vending_parking,48.893919,2.225758,Travel and Transportation
+"1,7", ,vending_parking,48.892009,2.227986,Travel and Transportation
+"1,7", ,vending_parking,48.892472,2.227553,Travel and Transportation
+"1,9", ,vending_parking,48.894214,2.227107,Travel and Transportation
+"10,6", ,vending_parking,48.891119,2.240814,Travel and Transportation
+"10,6", ,vending_parking,48.891137,2.240814,Travel and Transportation
+"18,4", ,vending_parking,48.889215,2.252078,Travel and Transportation
+"3,1", ,vending_parking,48.886394,2.231087,Travel and Transportation
+"9,3", ,vending_parking,48.888833,2.239205,Travel and Transportation
+"8,8",RATP,vending_any,48.892953,2.237821,Retail
+"10,6", ,vending_any,48.891269,2.240322,Retail
+"10,6", ,vending_any,48.891347,2.240459,Retail
+"11,6", ,vending_any,48.890864,2.242345,Retail
+"19,4", ,vending_any,48.889135,2.252503,Retail
+"6,5", ,vending_any,48.890701,2.235463,Retail
+"6,5", ,vending_any,48.890702,2.235482,Retail
+"7,5", ,vending_any,48.890703,2.235503,Retail
+"7,5", ,vending_any,48.890704,2.235522,Retail
+"7,5", ,vending_any,48.890705,2.235542,Retail
+"7,5", ,vending_any,48.890706,2.235564,Retail
+"7,5", ,vending_any,48.890707,2.235584,Retail
+"7,7", ,vending_any,48.892447,2.236875,Retail
+"8,7", ,vending_any,48.892482,2.237032,Retail
+"8,8", ,vending_any,48.892763,2.237316,Retail
+"8,8", ,vending_any,48.892825,2.237389,Retail
+"8,8", ,vending_any,48.892809,2.237236,Retail
+"8,8", ,vending_any,48.892855,2.23742,Retail
+"8,8", ,vending_any,48.892892,2.237333,Retail
+"8,8", ,vending_any,48.893094,2.2377,Retail
+"8,8", ,vending_any,48.893137,2.237628,Retail
+"10,12",Arda Kebab,turkish restaurant,48.89779807,2.240516245,Retail
+"14,0",PUTEAUX,tourist_info,48.886289,2.245942,Travel and Transportation
+"1,5",panneau administratif,tourist_info,48.890498,2.227973,Travel and Transportation
+"17,12",Ipm,tourist_info,48.896241,2.250836,Travel and Transportation
+"11,6",EPAD Info,tourist_info,48.89084,2.24238,Travel and Transportation
+"11,5",Centre - Grande Arche,tourist_info,48.890757,2.241931,Travel and Transportation
+"1,1",Affichage Libre,tourist_info,48.887195,2.227205,Travel and Transportation
+"10,7", ,tourist_info,48.891887,2.240965,Travel and Transportation
+"10,7", ,tourist_info,48.891894,2.240944,Travel and Transportation
+"11,6", ,tourist_info,48.890938,2.242024,Travel and Transportation
+"16,1", ,tourist_info,48.886827,2.249078,Travel and Transportation
+"19,5", ,tourist_info,48.890774,2.252835,Travel and Transportation
+"19,5", ,tourist_info,48.890781,2.252812,Travel and Transportation
+"19,5", ,tourist_info,48.890777,2.252823,Travel and Transportation
+"19,5", ,tourist_info,48.89077,2.252846,Travel and Transportation
+"19,5", ,tourist_info,48.890785,2.252801,Travel and Transportation
+"19,5", ,tourist_info,48.890552,2.253293,Travel and Transportation
+"7,7", ,tourist_info,48.892141,2.236788,Travel and Transportation
+"7,7", ,tourist_info,48.892196,2.236681,Travel and Transportation
+"8,10", ,tourist_info,48.894922,2.23777,Travel and Transportation
+"8,10", ,tourist_info,48.894704,2.238145,Travel and Transportation
+"8,11", ,tourist_info,48.895914,2.237262,Travel and Transportation
+"8,7", ,tourist_info,48.892408,2.236977,Travel and Transportation
+"8,7", ,tourist_info,48.892497,2.236915,Travel and Transportation
+"8,7", ,tourist_info,48.892538,2.237078,Travel and Transportation
+"8,8", ,tourist_info,48.892807,2.237349,Travel and Transportation
+"8,8", ,tourist_info,48.892813,2.237357,Travel and Transportation
+"8,8", ,tourist_info,48.892853,2.237263,Travel and Transportation
+"8,8", ,tourist_info,48.89286,2.237271,Travel and Transportation
+"8,8", ,tourist_info,48.893052,2.237659,Travel and Transportation
+"8,8", ,tourist_info,48.893157,2.237643,Travel and Transportation
+"8,8", ,tourist_info,48.89335,2.238003,Travel and Transportation
+"8,8", ,tourist_info,48.893406,2.237947,Travel and Transportation
+"9,5", ,tourist_info,48.890384,2.239005,Travel and Transportation
+"9,6", ,tourist_info,48.891319,2.239283,Travel and Transportation
+"9,9", ,tourist_info,48.893903,2.238574,Travel and Transportation
+"1,5",Théatre par le Bas,theatre,48.890433,2.22728,Arts and Entertainment
+"11,0",Le Petit Thai,thai restaurant,48.88513214,2.242721876,Retail
+"19,10",Piscine Municipale (Piscine Municipale de Courbevoie),swimming pool,48.894709,2.25333,Landmarks and Outdoors
+"10,12",Lune Sushi,sushi restaurant,48.8980532,2.241174728,Retail
+"9,7",Monoprix,supermarket,48.892457,2.238837,Retail
+"15,4",Franprix,supermarket,48.88964,2.246848,Retail
+"19,9",Carrefour Market,supermarket,48.894432,2.252663,Retail
+"14,0",Carrefour City,supermarket,48.885854,2.245966,Retail
+"16,11",A2pas,supermarket,48.896074,2.249191,Retail
+"16,10",Beef Cut,steakhouse,48.89560096,2.249815464,Retail
+"2,10",Paris la Défense Arena,stadium,48.89559807,2.229565923,Landmarks and Outdoors
+"16,6",Gymnase des Renardières,sports_centre,48.891287,2.248471,Landmarks and Outdoors
+"12,8",CMG Sports Club,sports_centre,48.892752,2.242594,Landmarks and Outdoors
+"9,5",Nike Store Paris la Defense,sporting goods retail,48.89076498,2.237944921,Retail
+"4,7",Soup'app,soup restaurant,48.893147,2.2327738,Retail
+"8,9",Bar 6 Pullman,snack place,48.894982,2.239072,Retail
+"16,2",Les Hommes de la Cité,sculpture garden,48.88851733,2.24962558,Landmarks and Outdoors
+"9,8",ESSEC,school,48.892916,2.239002,Education
+"8,2",école maternelle Défense 2000,school,48.887318,2.237026,Education
+"11,0",école élémentaire République,school,48.885688,2.24157,Education
+"2,0",école des Bergères,school,48.885543,2.229723,Education
+"5,7",La Jetée,scenic lookout,48.893221,2.233522767,Landmarks and Outdoors
+"8,6",Pret A Manger,sandwich restaurant,48.89158383,2.238078117,Retail
+"7,10",MONGOO la Defense,salad restaurant,48.89579846,2.236774564,Retail
+"2,6",Express Granite,salad restaurant,48.8919216,2.230217363,Retail
+"7,6",La Promenade (Toit de la Grande Arche de la Défense),roof deck,48.892415,2.236288,Landmarks and Outdoors
+"7,5",Westfield les 4 Temps,retail,48.89063,2.237493,Retail
+"8,6",Marks & Spencer Food,retail,48.89163313,2.238522295,Retail
+"9,7",Yùki Ono,restaurant,48.892563,2.239456,Retail
+"1,10",Yoshi Sushi,restaurant,48.894564,2.227241,Retail
+"19,8",Vietnam Kitchen,restaurant,48.892963,2.253168,Retail
+"18,11",Valentino Pizzeria,restaurant,48.895924,2.252135,Retail
+"4,1",Sushi Time's,restaurant,48.886914,2.232433,Retail
+"16,2",Story Place,restaurant,48.887951,2.248089,Retail
+"8,12",Soleil d'Or,restaurant,48.896423,2.237225,Retail
+"14,12",So Thai,restaurant,48.896755,2.245819,Retail
+"16,8",Sen Sushi,restaurant,48.893448,2.248142,Retail
+"16,11",Sakura,restaurant,48.896097,2.248939,Retail
+"19,8",Ristorante Mamma Mia,restaurant,48.89275,2.253371,Retail
+"13,1",Resunga,restaurant,48.886453,2.2445,Retail
+"19,11",Rastignac,restaurant,48.896185,2.252587,Retail
+"9,3",Porto,restaurant,48.888445,2.23897,Retail
+"16,12",Planet Sushi,restaurant,48.896547,2.248573,Retail
+"14,12",Pizza San Marco,restaurant,48.896524,2.2453,Retail
+"8,6",Pizza Del Arte,restaurant,48.891411,2.237223,Retail
+"14,8",Piccolino,restaurant,48.893414,2.246492,Retail
+"19,11",Peninsula,restaurant,48.896094,2.252427,Retail
+"15,4",Pause,restaurant,48.889313,2.247465,Retail
+"0,11",O'Ginkgo,restaurant,48.895846,2.22683,Retail
+"13,1",Monte Carlo,restaurant,48.886612,2.244913,Retail
+"17,2",Marco Marco,restaurant,48.887684,2.250765,Retail
+"1,10",Lunivia,restaurant,48.894672,2.22719,Retail
+"15,3",L'Italian Lounge,restaurant,48.888254,2.247316,Retail
+"12,0",L'Imprévu,restaurant,48.885931,2.242794,Retail
+"12,0",Les Petites Fermes,restaurant,48.885889,2.243159,Retail
+"0,11",Les Darons,restaurant,48.895993,2.225945,Retail
+"1,11",Les Bambins,restaurant,48.895618,2.227132,Retail
+"4,7",Le Valmy (brasserie),restaurant,48.892293,2.231641,Retail
+"15,9",Le Tournesol,restaurant,48.894067,2.247891,Retail
+"15,4",Le Tourbillon,restaurant,48.889674,2.247726,Retail
+"19,12",Le Timg?d,restaurant,48.896706,2.252905,Retail
+"0,10",Le P'tit Breton,restaurant,48.894766,2.226844,Retail
+"0,9",Le Ptit Breton,restaurant,48.89477217,2.226871848,Retail
+"1,10",Le Piano,restaurant,48.894472,2.227159,Retail
+"17,11",Le Madrissio,restaurant,48.895415,2.250021,Retail
+"19,8",Le Gavroche,restaurant,48.892642,2.253486,Retail
+"0,10",Le Bistrot d'Olivier,restaurant,48.8959506,2.225532241,Retail
+"18,11",Le Bistrot de l'échanson,restaurant,48.895899,2.251475,Retail
+"17,12",Le Bienvenu,restaurant,48.89652,2.250656,Retail
+"14,5",Le Ballon d'Alsace,restaurant,48.890201,2.246492,Retail
+"16,9",La Trattoria d'Angelo,restaurant,48.89358,2.248401,Retail
+"15,2",La Tavola at Sofitel Paris la Défense,restaurant,48.88831064,2.247691154,Retail
+"10,12",La Table des Artistes,restaurant,48.896902,2.239816,Retail
+"14,4",La Safranée,restaurant,48.889593,2.246063,Retail
+"5,7",La Brasserie Restaurant & Bar,restaurant,48.8924627,2.2334488,Retail
+"12,5",Koedo,restaurant,48.890551,2.243251,Retail
+"0,11",Jungle Arch,restaurant,48.895902,2.226151,Retail
+"12,5",IT,restaurant,48.890053,2.243435,Retail
+"7,6",Hanoi Cà Phê,restaurant,48.890877,2.23643,Retail
+"12,5",Globe Trotter,restaurant,48.890706,2.242646,Retail
+"9,8",Flo Prestige,restaurant,48.892842,2.238571,Retail
+"12,5",Eclipse,restaurant,48.890495,2.243405,Retail
+"15,2",DS Café,restaurant,48.887869,2.246979,Retail
+"13,6",Dapprima,restaurant,48.891127,2.2444,Retail
+"10,6",Cojean,restaurant,48.891677,2.24095,Retail
+"16,11",Chez Lau,restaurant,48.896236,2.24862,Retail
+"14,12",Bovinelli,restaurant,48.896509,2.246081,Retail
+"7,5",Boldère,restaurant,48.890728,2.23561,Retail
+"3,10",Bib & Guss,restaurant,48.894785,2.229983,Retail
+"3,6",Bert's,restaurant,48.89204506,2.231049692,Retail
+"15,4",Baguettes Chinoises,restaurant,48.889362,2.247279,Retail
+"9,10",Avant Seine,restaurant,48.894889,2.238754,Retail
+"3,4",Aux Délices de Puteaux,restaurant,48.889141,2.231214,Retail
+"19,8",Au Vent du Large,restaurant,48.893362,2.252705,Retail
+"14,5",Au Jardin des Corolles,restaurant,48.890647,2.245291,Retail
+"16,2",Andrea,restaurant,48.887972,2.248299,Retail
+"14,8",Alfred's Café,restaurant,48.893321,2.246267,Retail
+"4,3",Al Siwan,restaurant,48.888845,2.231749,Retail
+"17,12",Affinithé,restaurant,48.896976,2.250187,Retail
+"14,8", ,restaurant,48.893142,2.245843,Retail
+"19,7", ,restaurant,48.892525,2.252385,Retail
+"15,3",Le Moretti,public art,48.88905577,2.247850746,Arts and Entertainment
+"10,5",L'Araignée Rouge de Alexander Calder,public art,48.89131859,2.24167496,Arts and Entertainment
+"3,9",Mosai,pub,48.894079,2.230028,Arts and Entertainment
+"3,10",Les gentlemen,pub,48.894548,2.230341,Arts and Entertainment
+"18,10",Garden Café,pub,48.895285,2.251,Arts and Entertainment
+"8,12",Relais Poste,post_office,48.896651,2.23725,Community and Government
+"0,0", ,post_box,48.885714,2.226876,Community and Government
+"0,9", ,post_box,48.893935,2.225709,Community and Government
+"10,3", ,post_box,48.888418,2.240127,Community and Government
+"10,5", ,post_box,48.890555,2.239869,Community and Government
+"10,6", ,post_box,48.891271,2.240314,Community and Government
+"11,5", ,post_box,48.890022,2.242341,Community and Government
+"11,7", ,post_box,48.892113,2.242399,Community and Government
+"12,9", ,post_box,48.89368,2.24284,Community and Government
+"13,10", ,post_box,48.894897,2.244388,Community and Government
+"13,3", ,post_box,48.889024,2.244143,Community and Government
+"14,5", ,post_box,48.890558,2.245302,Community and Government
+"14,5", ,post_box,48.890675,2.245383,Community and Government
+"15,9", ,post_box,48.893653,2.247068,Community and Government
+"16,12", ,post_box,48.89674,2.248468,Community and Government
+"17,10", ,post_box,48.895139,2.250298,Community and Government
+"18,11", ,post_box,48.895469,2.251264,Community and Government
+"3,0", ,post_box,48.886313,2.2309,Community and Government
+"3,2", ,post_box,48.88726,2.230325,Community and Government
+"3,3", ,post_box,48.888926,2.231081,Community and Government
+"7,0", ,post_box,48.88586,2.236152,Community and Government
+"8,12", ,post_box,48.896625,2.236915,Community and Government
+"8,2", ,post_box,48.887757,2.236965,Community and Government
+"9,2",Katclara,portuguese restaurant,48.88841608,2.238960564,Retail
+"11,6",Police nationale,police,48.891299,2.242212,Community and Government
+"3,7",Terrasse Valmy,plaza,48.89280008,2.231720306,Landmarks and Outdoors
+"17,1",Terrasse Bellini,plaza,48.88703513,2.251313152,Landmarks and Outdoors
+"11,9",Square Henri Regnault,plaza,48.89426711,2.2424528,Landmarks and Outdoors
+"13,4",Square des Corolles,plaza,48.89002486,2.245180607,Landmarks and Outdoors
+"0,0",Rond-point des Bergères,plaza,48.88510073,2.227166891,Landmarks and Outdoors
+"14,7",Place des Vosges,plaza,48.8928331,2.246882919,Landmarks and Outdoors
+"18,3",Place des Saisons,plaza,48.88934059,2.252132893,Landmarks and Outdoors
+"14,4",Place des Reflets,plaza,48.89015112,2.246964276,Landmarks and Outdoors
+"16,4",Place des Miroirs,plaza,48.89037934,2.250390798,Landmarks and Outdoors
+"18,1",Place des Dominos,plaza,48.88748317,2.252665992,Landmarks and Outdoors
+"15,3",Place de l'Iris,plaza,48.8893621,2.248528944,Landmarks and Outdoors
+"11,3",Place de la Pyramide,plaza,48.88933916,2.242817581,Landmarks and Outdoors
+"11,5",Place de la Défense,plaza,48.89052571,2.242155075,Landmarks and Outdoors
+"11,6",Place de la Coupole,plaza,48.89228499,2.242377698,Landmarks and Outdoors
+"8,8",Place Carpeaux,plaza,48.89353072,2.238528728,Landmarks and Outdoors
+"4,6",Cours Valmy,plaza,48.89217637,2.232284546,Landmarks and Outdoors
+"14,2",Cours Michelet,plaza,48.8878764,2.247393429,Landmarks and Outdoors
+"9,9",Allée de l'Arche,plaza,48.89485216,2.23929616,Landmarks and Outdoors
+"0,3", ,playground,48.888906,2.226983,Landmarks and Outdoors
+"0,8", ,playground,48.892908,2.226551,Landmarks and Outdoors
+"0,8", ,playground,48.89287,2.226515,Landmarks and Outdoors
+"18,6", ,playground,48.891122,2.252268,Landmarks and Outdoors
+"2,2", ,playground,48.887823,2.229228,Landmarks and Outdoors
+"4,3", ,playground,48.888188,2.231708,Landmarks and Outdoors
+"6,2", ,playground,48.887369,2.235205,Landmarks and Outdoors
+"19,6",Venezia,pizzeria,48.8915662,2.25398764,Retail
+"15,8",Trattoria Pizzeria d'Angelo,pizzeria,48.8935311,2.248456236,Retail
+"7,11",Toast And Pizz,pizzeria,48.89641387,2.237168849,Retail
+"13,11",San Marco,pizzeria,48.896545,2.245379,Retail
+"16,10",Madrissio,pizzeria,48.89542991,2.250024676,Retail
+"9,12",Le Bistrot de Courbevoie,pizzeria,48.89792317,2.240322456,Retail
+"16,11", ,pitch,48.895425,2.248485,Landmarks and Outdoors
+"3,5", ,pitch,48.890411,2.230943,Landmarks and Outdoors
+"6,11", ,pitch,48.895885,2.234667,Landmarks and Outdoors
+"19,7",Pharmacie Victor Hugo,pharmacy,48.891883,2.253093,Health and Medicine
+"15,4",Pharmacie Manhattan,pharmacy,48.889387,2.247631,Health and Medicine
+"7,12",Pharmacie Léonard de Vinci,pharmacy,48.896785,2.236445,Health and Medicine
+"4,4",Pharmacie des Bouvets,pharmacy,48.889065,2.231538,Health and Medicine
+"18,10",Pharmacie Charras,pharmacy,48.895047,2.251827,Health and Medicine
+"17,11",Pharmacie Centrale,pharmacy,48.895371,2.249524,Health and Medicine
+"16,1",Pharmacie Bellini,pharmacy,48.88667,2.248819,Health and Medicine
+"1,11",Parapharmacie Les Terrasses de l'Arche,pharmacy,48.895402,2.227806,Health and Medicine
+"7,10",Esplanade Mona Lisa,pedestrian plaza,48.89585059,2.23644197,Landmarks and Outdoors
+"15,2",Esplanade du Général de Gaulle,pedestrian plaza,48.88860693,2.248034477,Landmarks and Outdoors
+"18,2",Square Vivaldi,park,48.888575,2.252692,Landmarks and Outdoors
+"1,0",Square president wilson,park,48.88568535,2.228045277,Landmarks and Outdoors
+"3,2",Place des Marées,park,48.88785484,2.231245549,Landmarks and Outdoors
+"17,7",Parc Diderot,park,48.89197935,2.250209692,Landmarks and Outdoors
+"19,9",Parc des Pléiades,park,48.89474957,2.254434228,Landmarks and Outdoors
+"8,12",Optique de l'Arche,optician,48.896485,2.237102,Health and Medicine
+"9,7",Optic 2000,optician,48.892527,2.238936,Health and Medicine
+"3,4",Netoptic,optician,48.889457,2.230933,Health and Medicine
+"16,10",Lissac,optician,48.89496,2.249332,Health and Medicine
+"17,11",Krys,optician,48.895697,2.249592,Health and Medicine
+"10,5",Grand Optical,optician,48.890215,2.240042,Health and Medicine
+"16,11",Art - Optic,optician,48.896223,2.248837,Health and Medicine
+"16,12",Alain Afflelou,optician,48.896617,2.248313,Health and Medicine
+"8,7",Relay,newsagent,48.892558,2.237034,Community and Government
+"3,0",Le Totem,newsagent,48.886311,2.231129,Community and Government
+"15,4", ,newsagent,48.889559,2.24776,Community and Government
+"8,7", ,newsagent,48.891899,2.237201,Community and Government
+"11,5",Musée de la Défense,museum,48.890773,2.242299,Arts and Entertainment
+"3,3",Aux Delices de Puteaux,moroccan restaurant,48.8891323,2.231247872,Retail
+"18,2",Restaurant de l'Hôtel Novotel Paris la Défense,modern european restaurant,48.888035,2.253011,Retail
+"8,7",Nespresso,miscellaneous store,48.892504,2.23864,Retail
+"0,4",Mayanne Evenementiel,miscellaneous store,48.8904719,2.22770034,Retail
+"7,5",Chipotle Mexican Grill,mexican restaurant,48.8913475,2.237639,Retail
+"4,9",Monuments aux morts pour la France,memorial,48.893893,2.232531,Arts and Entertainment
+"17,10",Général de Gaulle,memorial,48.895127,2.250367,Arts and Entertainment
+"17,2",Meliá The Place,lounge,48.88848136,2.250406891,Retail
+"4,7",Executive Lounge de l'Hôtel Renaissance Paris la Défense,lounge,48.89263096,2.232963145,Retail
+"14,0",Séquoia,laundry,48.885955,2.24588,Retail
+"3,4",Pressing,laundry,48.889592,2.230825,Retail
+"16,12",Milo-Pressing,laundry,48.89637,2.248512,Retail
+"3,4",Laverie,laundry,48.889797,2.230722,Retail
+"4,1",De Gaulle Pressing,laundry,48.886636,2.231927,Retail
+"6,12",5àsec,laundry,48.89639,2.235024,Retail
+"12,0", ,laundry,48.886024,2.243435,Retail
+"16,9", ,laundry,48.893606,2.248461,Retail
+"8,6",Parvis de la Défense,landmarks and outdoors,48.8916967,2.238657475,Landmarks and Outdoors
+"15,4",Saperlipopette,kindergarten,48.889498,2.246734,Education
+"15,6",Plumes et Compagnies,kindergarten,48.891552,2.247306,Education
+"12,11",Crèche Les Chérubins,kindergarten,48.895359,2.243878,Education
+"6,0",Crèche Les 3 Ours,kindergarten,48.886057,2.234401,Education
+"5,4",Crèche des Jardins,kindergarten,48.889612,2.233339,Education
+"12,1",Crèche des Arcades,kindergarten,48.886509,2.243509,Education
+"1,2",Accueil familial Amitié-Rosiers,kindergarten,48.88795,2.22773,Education
+"4,1",Sushi Times,japanese restaurant,48.88690658,2.232457548,Retail
+"0,10",Kyoto,japanese restaurant,48.89557831,2.226538775,Retail
+"7,5",Vapiano,italian restaurant,48.89111698,2.236055526,Retail
+"15,2",Pizzeria Andréa,italian restaurant,48.88792264,2.24819541,Retail
+"12,4",IT Trattoria,italian restaurant,48.889989,2.243485,Retail
+"19,2",Novotel Paris La Défense,hotels,48.887909,2.252674,Business and Professional Services
+"18,11",Mercure,hotels,48.895797,2.25125,Business and Professional Services
+"18,11",Le Timgad,hotels,48.89662819,2.253001573,Business and Professional Services
+"16,9",La Régence,hotels,48.894283,2.248207,Business and Professional Services
+"3,0",Ibis Budget,hotels,48.88587,2.230112,Business and Professional Services
+"9,8",Hilton Paris La Defense,hotels,48.892843,2.238288,Business and Professional Services
+"19,2",H?tel ibis Paris La Défense Centre,hotels,48.88802,2.252929,Business and Professional Services
+"16,9",Adagio Aparthotel La Défense Kleber,hotels,48.894326,2.248671,Business and Professional Services
+"17,2",Skyline Bar & Lounge,hotel bar,48.88841646,2.25058794,Retail
+"1,10",Pharmacie Terrasses de l'Arche,health and medicine,48.895124,2.227446,Health and Medicine
+"0,3",The Pablo,hairdresser,48.888458,2.227083,Retail
+"0,0",salon de coiffure,hairdresser,48.885737,2.226901,Retail
+"15,12",Saint Algue,hairdresser,48.897105,2.24792,Retail
+"11,0",Queen's Hair,hairdresser,48.885513,2.242411,Retail
+"15,9",M-Ka Coiffures,hairdresser,48.893923,2.247717,Retail
+"12,0",Line André coiffure,hairdresser,48.885894,2.242668,Retail
+"8,12",Jean-Claude Biguine,hairdresser,48.896972,2.237205,Retail
+"14,0",Jean Louis David,hairdresser,48.886156,2.245641,Retail
+"15,4",Franck Provost,hairdresser,48.889509,2.247976,Retail
+"3,3",Capelli Studio,hairdresser,48.889036,2.23128,Retail
+"0,11",Biguine,hairdresser,48.895894,2.226266,Retail
+"17,11",Alain Pagès,hairdresser,48.895638,2.249674,Retail
+"18,11", ,hairdresser,48.895342,2.251676,Retail
+"19,10", ,hairdresser,48.894722,2.252513,Retail
+"16,4",Franck Provost (Franck Provost - Coiffeur Courbevoie),hair salon,48.889706,2.249867,Retail
+"6,5",Auchan,grocery store / supermarket,48.8912385,2.2350577,Retai
+"7,12",Les Jardins de Courbevoie,greengrocer,48.896559,2.235506,Retail
+"5,0",L'Escargot 1903,gastropub,48.88543655,2.234567776,Retail
+"3,8",Jardins de l'Arche,garden,48.89403754,2.23115855,Landmarks and Outdoors
+"16,12",Mobalpa,furniture_shop,48.896784,2.248389,Retail
+"4,1",MC Diffusion,furniture_shop,48.886731,2.232036,Retail
+"19,12",Gautier,furniture_shop,48.896284,2.252776,Retail
+"19,11",Dreami,furniture_shop,48.896046,2.252359,Retail
+"6,6",Søstrene Grene,furniture and home store,48.89164203,2.236050661,Retail
+"8,5",Maisons du Monde,furniture and home store,48.89070188,2.238032668,Retail
+"9,7",Habitat la Défense,furniture and home store,48.89267,2.239612,Retail
+"7,5",So Cream,frozen yogurt shop,48.891044,2.236358,Retail
+"14,2",Les Canailles,french restaurant,48.88832718,2.246578038,Retail
+"0,0",Le Relais des Bergères,french restaurant,48.88537185,2.225900888,Retail
+"6,4",Le Ferney,french restaurant,48.8898544,2.23561228,Retail
+"17,0",Brasserie le Paris Défense,french restaurant,48.88602493,2.250990272,Retail
+"7,10",Bistro du Faubourg,french restaurant,48.89618287,2.23745048,Retail
+"18,3",Bistro d'Édouard,french restaurant,48.88956618,2.252402045,Retail
+"11,4",Fontaine Agam,fountain,48.8903811,2.24270761,Landmarks and Outdoors
+"16,2",Bassin Takis,fountain,48.88797203,2.25030899,Landmarks and Outdoors
+"18,0", ,fountain,48.885706,2.250944,Landmarks and Outdoors
+"7,5",Le Dôme de la Défense,food court,48.89064453,2.236407101,Retail
+"3,4",O Fleurs d'à Coté,florist,48.889838,2.230688,Retail
+"16,12",Monceau Fleurs,florist,48.896595,2.248544,Retail
+"15,12",Poissonnerie la Vague (Poissonnerie La Vague),fish market,48.89735725,2.24796474,Landmarks and Outdoors
+"0,11",AXA France Services,financial service,48.89641828,2.227746248,Business and Professional Services
+"13,1",Trattoria Piccino,fast_food,48.886541,2.244724,Retail
+"15,3",Titanka,fast_food,48.888395,2.247914,Retail
+"16,11",The Place to B,fast_food,48.896165,2.248885,Retail
+"16,9",Tak'Eat,fast_food,48.893794,2.249027,Retail
+"16,9",Sweet T House,fast_food,48.89418,2.248101,Retail
+"16,11",Subway,fast_food,48.895808,2.248719,Retail
+"0,11",Spok,fast_food,48.895809,2.226442,Retail
+"15,2",Pomme de Pain,fast_food,48.888029,2.247383,Retail
+"17,12",Pizza King,fast_food,48.896848,2.250277,Retail
+"1,2",Pizz' Appétit,fast_food,48.887635,2.227388,Retail
+"15,2",Pasta Bella,fast_food,48.888001,2.247469,Retail
+"17,2",Paririe,fast_food,48.887722,2.250643,Retail
+"19,8",O'MG,fast_food,48.892688,2.253423,Retail
+"16,11",McDonald's,fast_food,48.895977,2.248763,Retail
+"0,3",Mag Bucket,fast_food,48.888475,2.226742,Retail
+"1,3",Le Pica,fast_food,48.888506,2.22718,Retail
+"3,4",Le Joker,fast_food,48.889643,2.230788,Retail
+"0,3",Le Dream,fast_food,48.888158,2.226963,Retail
+"15,9",La Gourmandise,fast_food,48.893956,2.247794,Retail
+"7,6",Jour,fast_food,48.891686,2.236082,Retail
+"6,12",Grill Dehliz,fast_food,48.896461,2.235278,Retail
+"10,12",Friends & Fries,fast_food,48.896371,2.240532,Retail
+"7,6",Five Guys,fast_food,48.891571,2.236215,Retail
+"13,4",Exki,fast_food,48.889335,2.243987,Retail
+"14,8",équi Eat,fast_food,48.893359,2.246361,Retail
+"15,9",Dehliz,fast_food,48.893704,2.247171,Retail
+"17,11",Chicken Best,fast_food,48.895503,2.249864,Retail
+"1,2",Burger’ppétit,fast_food,48.887722,2.227397,Retail
+"18,2",Bio Burger,fast_food,48.887757,2.250978,Retail
+"3,9",Big Fernand,fast_food,48.894263,2.231193,Retail
+"15,2",Anka,fast_food,48.888031,2.247614,Retail
+"19,8",Amaken,fast_food,48.892818,2.25331,Retail
+"15,9",Alyssa,fast_food,48.893801,2.247427,Retail
+"16,12", ,fast_food,48.896461,2.248646,Retail
+"18,11", ,fast_food,48.895415,2.251264,Retail
+"3,7",Yin's,fast food restaurant,48.89278202,2.231105828,Retail
+"6,6",Scoozi,fast food restaurant,48.8919291,2.235157192,Retail
+"0,0",Pizza Naim,fast food restaurant,48.88575253,2.227217122,Retail
+"15,2",Ma Bento,fast food restaurant,48.88843762,2.247739434,Retail
+"15,12",Grill d'Istambul,fast food restaurant,48.89718444,2.247774303,Retail
+"14,4",El Karim,fast food restaurant,48.88981711,2.247172642,Retail
+"7,5",Bretzel Love,fast food restaurant,48.89107702,2.23594802,Retail
+"7,10",Aubrac Corner la Defense,fast food restaurant,48.89585136,2.236935496,Retail
+"15,2",Ankka,fast food restaurant,48.88789,2.247593,Retail
+"8,5",Apple Store,electronics store,48.890078,2.2371343,Retail
+"8,6",Pharmacie du Rer,drugstore,48.891796,2.238691,Health and Medicine
+"15,9",COPA,doityourself,48.893904,2.247671,Community and Government
+"11,4",Point Vision,doctors,48.889587,2.242467,Health and Medicine
+"11,2",Emeric Goubely - Ostéopathe Puteaux,doctors,48.887941,2.241654,Health and Medicine
+"13,1",Elise FERTOUT-AHAROUNI,doctors,48.886575,2.244796,Health and Medicine
+"14,4",Beno?t Gaultier - Ostéopathe D.O.,doctors,48.889639,2.245871,Health and Medicine
+"15,2",Pico,diner,48.88845494,2.247789843,Landmarks and Outdoors
+"8,12",Thibous,dentist,48.896545,2.237913,Health and Medicine
+"13,1",Stéphane AHAROUNI,dentist,48.88658,2.244778,Health and Medicine
+"8,12",SEL Dentaire du Faubourg de l'Arche,dentist,48.896582,2.236979,Health and Medicine
+"8,12",Fonteneau,dentist,48.896523,2.237915,Health and Medicine
+"10,11",Dental Santé,dentist,48.895988,2.240729,Health and Medicine
+"7,5",Berko,cupcake shop,48.89109759,2.236507515,Retail
+"14,12",Brother's Crêpes & Café,creperie,48.89796206,2.247135937,Retail
+"8,5",Sephora,cosmetics store,48.890427,2.236586,Retail
+"8,5",Lush,cosmetics store,48.89084687,2.238199573,Retail
+"14,0",Thiriet,convenience,48.886009,2.245817,Retail
+"16,11",Naturalia,convenience,48.89555,2.249283,Retail
+"15,9",GAM,convenience,48.893876,2.247605,Retail
+"3,4",Fruit et Légume,convenience,48.88989,2.230644,Retail
+"0,3",Déstockage Alimentaire,convenience,48.888165,2.226866,Retail
+"1,3",Chez Baba,convenience,48.888477,2.227546,Retail
+"5,0",AZMARKET,convenience,48.886053,2.234022,Retail
+"4,3",Alimentation Marcelin Berthelot,convenience,48.888981,2.231371,Retail
+"10,12",Alimentation Générale,convenience,48.896947,2.240445,Retail
+"0,0", ,convenience,48.885671,2.226678,Retail
+"12,0", ,convenience,48.885936,2.243242,Retail
+"17,0", ,convenience,48.885489,2.25065,Retail
+"9,7",Fnac,computers and electronics retail,48.89262532,2.23958508,Retail
+"1,6",Salle polyvalente Espace Gorki,community_centre,48.891102,2.228218,Community and Government
+"19,6",Espace parents de la ville de Courbevoie,community_centre,48.891168,2.253148,Community and Government
+"7,8",Exchange College,college,48.892993,2.235748,Education
+"7,8",école Conte,college,48.892926,2.236202,Education
+"7,7",Digital College Paris La Défense,college,48.892636,2.236711,Education
+"7,8","Ascencia Business School La Défense, Grande Arche",college,48.893034,2.235602,Education
+"12,5",Starbucks Coffee Coeur Défense,coffee shop,48.89064351,2.243591398,Retail
+"18,4",Le Chill' Sandwich & Coffee,coffee shop,48.88965749,2.252399772,Retail
+"8,5",Uniqlo,clothing store,48.89069676,2.237852811,Retail
+"9,4",Pull&Bear,clothing store,48.89027771,2.240371406,Retail
+"7,5",Michael Kors,clothing store,48.89127134,2.237004775,Retail
+"8,4",H&M,clothing store,48.89049293,2.238676035,Retail
+"9,7",Décathlon,clothing store,48.89259961,2.239547968,Retail
+"15,12",Urban Mood,clothes,48.896944,2.24805,Retail
+"16,12",Katia,clothes,48.896446,2.248451,Retail
+"14,8",Jann's,clothes,48.893215,2.246015,Retail
+"16,11",Comptoir des Parisiennes,clothes,48.896156,2.248685,Retail
+"6,6",UGC Ciné Cité La Défense,cinema,48.891095,2.23532,Arts and Entertainment
+"18,4",Dynasty 168,chinese restaurant,48.89026823,2.252025604,Retail
+"1,6",Secret casino,casino,48.89191182,2.227889569,Arts and Entertainment
+"15,6",Total Wash,car_wash,48.89127,2.247798,Community and Government
+"0,0",Rent a Car,car_rental,48.885539,2.226407,Travel and Transportation
+"14,7",Autolib',car_rental,48.892324,2.245368,Travel and Transportation
+"16,9",Agence Sixt,car_rental,48.893749,2.248898,Travel and Transportation
+"1,10",Toyota,car_dealership,48.895336,2.228396,Landmarks and Outdoors
+"15,3",Starbucks,cafe,48.888461,2.247601,Retail
+"7,12",Le Vinci,cafe,48.896635,2.235904,Retail
+"6,10",La Caféteria,cafe,48.89617166,2.236256092,Retail
+"18,2",Coutume,cafe,48.887834,2.251017,Retail
+"12,0",Caffe Chic,cafe,48.885069,2.244332,Retail
+"2,5",Café Chassagne,cafe,48.89135666,2.230053611,Retail
+"17,11",La Ferme de Courbevoie,butcher,48.89561,2.250347,Retail
+"12,0",Boucherie République,butcher,48.885916,2.242737,Retail
+"3,4",Boucherie Besnard,butcher,48.889561,2.230844,Retail
+"8,5",Pepperico,burrito restaurant,48.890714,2.238587,Retail
+"8,10",Quinte & Sens,burger joint,48.89503756,2.238928378,Retail
+"7,10",Day's Café,burger joint,48.89559794,2.237275332,Retail
+"0,10",Aréna Café,burger joint,48.89539805,2.226179922,Retail
+"14,12",85 Ozo Maison Burger,burger joint,48.89774165,2.247355878,Retail
+"17,5",Passerelle Louis Blanc,bridge,48.89060334,2.251019776,Landmarks and Outdoors
+"14,1",Passerelle des Vignes,bridge,48.88733287,2.247093022,Landmarks and Outdoors
+"15,1",Passerelle de l'Orme,bridge,48.88705316,2.248849869,Landmarks and Outdoors
+"16,4",Passerelle d'Alsace,bridge,48.890161,2.249223,Landmarks and Outdoors
+"18,2",Petit-déjeuner @ Fraser Suites,breakfast spot,48.888076,2.252474,Retail
+"18,2",ibis Breakfast Room (Petit Déjeuner @ Hôtel ibis Paris La Défense Centre),breakfast spot,48.88830712,2.252460122,Retail
+"8,12",Le Bistro d'Edouard,brasserie,48.8971921,2.238588933,Landmarks and Outdoors
+"19,8",Bowling Charras,bowling alley,48.89409836,2.253300234,Arts and Entertainment
+"15,9",Green Mobility,bicycle_shop,48.894122,2.247958,Retail
+"6,8",Atelier Cyclofix,bicycle_shop,48.892724,2.234782,Retail
+"19,12",Place Charles de Gaulle,bicyclerental,48.896611,2.252431,Travel and Transportation
+"14,0",Nicolas,beverages,48.886079,2.245731,Retail
+"15,10",La Caisse de Bières,beverages,48.895147,2.246865,Retail
+"8,5",Yves Rocher,beauty_shop,48.890825,2.238003,Retail
+"4,4",Naturel Beauty,beauty_shop,48.889144,2.231655,Retail
+"16,8",Matis,beauty_shop,48.893509,2.248248,Retail
+"16,9",L'Onglerie,beauty_shop,48.893733,2.24877,Retail
+"15,12",Le Cocon d'Edwige,beauty_shop,48.896904,2.248082,Retail
+"11,0",La Griffe,beauty_shop,48.885478,2.242297,Retail
+"12,0",Institut Respire,beauty_shop,48.885525,2.242522,Retail
+"11,0",Espace Epilation,beauty_shop,48.88554,2.242482,Retail
+"16,10",Bulle de Soins,beauty_shop,48.894932,2.24923,Retail
+"7,1",Terrain de Basket Puteaux,basketball court,48.88704606,2.236645916,Landmarks and Outdoors
+"16,12",Teddy Beer,bar,48.896827,2.248144,Retail
+"19,12",Restaurant Le Timgad,bar,48.896709,2.252873,Retail
+"17,2",Nodd Bar,bar,48.88802846,2.250850797,Retail
+"14,2",L'Italian Lounge at Sofitel Paris la Défense,bar,48.8884927,2.247458738,Retail
+"5,1",Le Wilson,bar,48.88706702,2.233861462,Retail
+"15,4",Le Nouveau Monde,bar,48.889333,2.248058,Retail
+"0,0",Le Montalegre,bar,48.8857,2.226769,Retail
+"13,4",Le Mond,bar,48.89013773,2.24491775,Retail
+"17,10",Le Garden Café,bar,48.89521654,2.251403332,Retail
+"8,2",Le Forum,bar,48.88861027,2.239037007,Retail
+"15,2",Duke Burger House,bar,48.88788146,2.247835867,Retail
+"7,11",CIC Courbevoie Vinci,banking and finance,48.8969147,2.236889136,Business and Professional Services
+"10,5",Société Générale,bank,48.890364,2.240657,Business and Professional Services
+"17,10",LCL,bank,48.895263,2.249661,Business and Professional Services
+"11,6",HSBC,bank,48.891482,2.24185,Business and Professional Services
+"16,11",Crédit Mutuel,bank,48.895472,2.249407,Business and Professional Services
+"16,11",Crédit Agricole Courbevoie Charras,bank,48.895724,2.249028,Business and Professional Services
+"18,11",CIC Courbevoie Charras,bank,48.895462,2.251355,Business and Professional Services
+"11,6",CIC,bank,48.891151,2.242119,Business and Professional Services
+"12,6",Caisse d'épargne,bank,48.890975,2.242729,Business and Professional Services
+"16,12",BRED,bank,48.896815,2.248337,Business and Professional Services
+"10,6",BNP Paribas,bank,48.891665,2.240721,Business and Professional Services
+"6,5",Pret à Manger,bakery,48.8905024,2.2362235,Retail
+"0,3",Poire de Pains,bakery,48.888154,2.22704,Retail
+"15,2",Panam,bakery,48.887954,2.247091,Retail
+"14,0",Les Fromentiers,bakery,48.886221,2.245514,Retail
+"12,0",Les Fournils d'Antan,bakery,48.885696,2.242691,Retail
+"6,12",La Joconde,bakery,48.896365,2.234749,Retail
+"6,5",Brioche Dorée,bakery,48.89098168,2.235785408,Retail
+"10,12",Boulangerie Patisserie Traiteur,bakery,48.896481,2.240523,Retail
+"10,11",Boulangerie Pâtisserie Tiznit,bakery,48.89647717,2.240545079,Retail
+"3,4",Boulangerie Gazon,bakery,48.889496,2.230907,Retail
+"10,12",Boulangerie Faubourg de l'Arche,bakery,48.897099,2.239827,Retail
+"7,7",Bonne Journée,bakery,48.892212,2.236772,Retail
+"4,0", ,bakery,48.886334,2.232576,Retail
+"4,3", ,bakery,48.888769,2.231838,Retail
+"1,4",Serpent,attraction,48.889302,2.22838,Landmarks and Outdoors
+"10,7", ,atm,48.892554,2.240009,Community and Government
+"15,4", ,atm,48.889671,2.247006,Community and Government
+"16,11", ,atm,48.895463,2.24937,Community and Government
+"16,11", ,atm,48.8957,2.249097,Community and Government
+"18,11", ,atm,48.895825,2.251915,Community and Government
+"18,11", ,atm,48.895779,2.252065,Community and Government
+"19,11", ,atm,48.896096,2.252521,Community and Government
+"19,11", ,atm,48.896061,2.252613,Community and Government
+"19,7", ,atm,48.891996,2.253403,Community and Government
+"3,4", ,atm,48.889286,2.231075,Community and Government
+"8,12", ,atm,48.896808,2.237697,Community and Government
+"8,7", ,atm,48.89217,2.237713,Community and Government
+"5,8",Slinky,artwork,48.893085,2.23351,Arts and Entertainment
+"7,9",Slat,artwork,48.893696,2.23557,Arts and Entertainment
+"15,5",Sculpture La Terre,artwork,48.890167,2.247069,Arts and Entertainment
+"4,8",Scratching the surface,artwork,48.893384,2.231847,Arts and Entertainment
+"17,4",PA1112 gros orange sur les escaliers en bas de la tour Between les miroirs,artwork,48.889665,2.250198,Arts and Entertainment
+"9,3",Les Cheminées,artwork,48.888977,2.238731,Arts and Entertainment
+"5,7",La voiture sur le lampadaire,artwork,48.892438,2.233982,Arts and Entertainment
+"15,5",La Terre,artwork,48.89006,2.246976,Arts and Entertainment
+"8,10",Ikaria,artwork,48.895296,2.237,Arts and Entertainment
+"1,10",Fresques,artwork,48.894936,2.227582,Arts and Entertainment
+"13,4",Fontaine Wallace,artwork,48.88993,2.244695,Arts and Entertainment
+"8,10",Colosse,artwork,48.894938,2.237843,Arts and Entertainment
+"9,7",cnit,artwork,48.891867,2.239468,Arts and Entertainment
+"16,3",Banc public,artwork,48.888295,2.249287,Arts and Entertainment
+"11,3", ,artwork,48.888468,2.242363,Arts and Entertainment
+"12,3", ,artwork,48.888853,2.24264,Arts and Entertainment
+"19,4", ,artwork,48.889106,2.253361,Arts and Entertainment
+"5,7", ,artwork,48.892269,2.233893,Arts and Entertainment
+"9,7", ,artwork,48.892268,2.239125,Arts and Entertainment
+"10,6",Carrousel Jules Vernes,amusementpark,48.89148045,2.241090238,Arts and Entertainment
+"4,7",Le Californien,american restaurant,48.89258365,2.232860659,Retail
